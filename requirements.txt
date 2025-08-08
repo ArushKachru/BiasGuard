@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+shap
+matplotlib
+seaborn
+fairlearn
+openai
+streamlit
